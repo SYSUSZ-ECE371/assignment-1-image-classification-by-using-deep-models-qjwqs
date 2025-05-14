@@ -27,7 +27,7 @@ This assignment focuses on training deep learning models for flower classificati
 2. **Modify Configuration**  
    - Update `config.py` to:  
      - Set `num_classes=5`.  
-     - Adjust data paths and learning rate (e.g., `lr=0.001`, `epochs=10`).  
+     - Adjust data paths and learning rate (e.g., `lr=0.001`, `epochs=150`).  
      - Link to pre-trained model from [MMClassification Model Zoo](https://github.com/open-mmlab/mmpretrain/tree/1.x).  
 3. **Run Training**  
    ```bash
